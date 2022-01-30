@@ -42,7 +42,7 @@ footer {
   background-color: #d8e2dc;
   border-top-right-radius: 15px;
   border-top-left-radius: 15px;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   left: 15%;
   width: 70%;
